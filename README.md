@@ -1,8 +1,12 @@
 # Pardon Run — turkey-run-game-01
 
+[![make.fun · turkey-run-game-01](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![rank](https://make.fun/badge/turkey-run-game-01/brianwang1226/turkey-run-game/rank.svg)](https://make.fun/bounty/turkey-run-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![reward](https://make.fun/badge/turkey-run-game-01/brianwang1226/turkey-run-game/reward.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+
 A side-scrolling runner: a turkey escapes Thanksgiving dinner, 2,400 m from
 the farmyard through the orchard to the kitchen, with the farmer and his
-pitchfork right behind it.
+pitchfork right behind it. Entry for the [turkey-run-game-01 bounty on make.fun](https://make.fun/bounty/turkey-run-game-01).
 
 ## Play
 
