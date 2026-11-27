@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Pardon Run — Turkey Run Game</title>
+    <link rel="icon" href="data:," />
+    <style>
+      html,
+      body {
+        margin: 0;
+        height: 100%;
+        overflow: hidden;
+        background: #1c1008;
+      }
+      #game {
+        display: block;
+        width: 100vw;
+        height: 100vh;
+        touch-action: none;
+        outline: none;
+      }
+      #status {
+        position: absolute;
+        left: -9999px;
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
+      }
+      noscript p {
+        color: #fff7ed;
+        font: 18px system-ui, sans-serif;
+        padding: 24px;
+      }
+    </style>
+  </head>
+  <body>
+    <canvas id="game" tabindex="0" role="img" aria-label="Pardon Run: a turkey runs right while a farmer chases it from the left. Jump the fences, hay bales and ovens; slide under the carving knives and meat hooks."></canvas>
+    <p id="status" aria-live="polite"></p>
+    <noscript><p>Pardon Run needs JavaScript to play.</p></noscript>
+    <script type="module" src="./src/main.js"></script>
+  </body>
+</html>
